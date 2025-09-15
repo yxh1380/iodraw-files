@@ -1630,7 +1630,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-65" value="供货、技术交底" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-44" target="r68pPXNX0Ogo66Y5zNp7-52">
-          <mxGeometry x="-0.0263" y="7" relative="1" as="geometry">
+          <mxGeometry x="-0.0414" y="10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="780" y="1030" />
             </Array>
@@ -1733,8 +1733,8 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-132" value="电缆/设备厂家" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="1080" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-133" value="供货、技术交底" style="curved=1;startArrow=none;endArrow=block;entryX=0.393;entryY=-0.014;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-44" target="r68pPXNX0Ogo66Y5zNp7-132">
-          <mxGeometry x="-0.0073" y="-3" relative="1" as="geometry">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-133" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.393;entryY=-0.014;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-44" target="r68pPXNX0Ogo66Y5zNp7-132">
+          <mxGeometry x="-0.0123" y="-3" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="796" y="990" as="sourcePoint" />
             <mxPoint x="775" y="1090" as="targetPoint" />
