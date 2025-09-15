@@ -1548,7 +1548,7 @@
           <mxGeometry x="1613" y="948" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-50" value="土建施工团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="313" y="1080" width="134" height="49" as="geometry" />
+          <mxGeometry x="220" y="1080" width="134" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-51" value="安装与电气团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="509.5" y="1120.5" width="172" height="49" as="geometry" />
