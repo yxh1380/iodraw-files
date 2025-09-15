@@ -125,11 +125,11 @@
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-96" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-120" y="410" as="sourcePoint" />
-            <mxPoint x="10" y="410" as="targetPoint" />
+            <mxPoint x="20" y="400" as="sourcePoint" />
+            <mxPoint x="150" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-120" y="350" />
-              <mxPoint x="10" y="350" />
+              <mxPoint x="20" y="340" />
+              <mxPoint x="150" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -215,6 +215,16 @@
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-112" value="虚拟组织" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-2" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="320" as="sourcePoint" />
+            <mxPoint x="-30" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-160" y="360" />
+              <mxPoint x="-30" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
