@@ -214,9 +214,6 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-112" value="虚拟组织" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P9e7DaynjKYJtFlQ56Ol-2" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-54" y="251" width="60" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
