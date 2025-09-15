@@ -1612,13 +1612,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-63" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-63" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-41">
           <mxGeometry x="0.4466" y="-41" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="765" y="1030" />
+              <mxPoint x="729" y="1051" />
             </Array>
-            <mxPoint x="478.948979591838" y="988.5" as="sourcePoint" />
-            <mxPoint x="336" y="1140" as="targetPoint" />
+            <mxPoint x="442.948979591838" y="1009.5" as="sourcePoint" />
+            <mxPoint x="300" y="1161" as="targetPoint" />
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
