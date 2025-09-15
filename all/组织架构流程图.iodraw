@@ -400,6 +400,184 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-85" value="C [EPC联合体项目部]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="815" y="1640" width="1593" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-86" value="Leadership [项目领导与总协调]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="301" y="1665" width="480" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-87" value="总协调（国内）&#xa;罗靓 GW" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="KK2gv3hvEF3qkXEr2EmK-86">
+          <mxGeometry x="43" y="46" width="172" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-88" value="总协调（刚果金）&#xa;李贺春 GW" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="KK2gv3hvEF3qkXEr2EmK-86">
+          <mxGeometry x="265" y="46" width="188" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-89" value="项目业主/购电方&#xa;绿沙矿业股份有限公司" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="407" y="1879" width="220" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-90" value="股东方/投资决策层&#xa;GW / 中铁七局刚果公司 CRSG" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1694" width="231" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-91" value="项目部核心管理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1636" y="1711" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-92" value="设计管理组&#xa;河南院" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="851" y="1879" width="140" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-93" value="采购与物流组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1462" y="1888" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-94" value="施工管理组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="1888" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-95" value="QA/QC组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1668" y="1888" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-96" value="HSE组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1843" y="1888" width="103" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-97" value="合同商务组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2233" y="1888" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-98" value="合规与文件控制组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1995" y="1888" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-99" value="Leadership" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="66" y="1888" width="138" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-100" value="C" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="203" y="2052" width="70" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-101" value="土建施工团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="905" y="2052" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-102" value="安装与电气团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1132" y="2052" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-103" value="设备技术服务&#xa;华为" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1354" y="2043" width="157" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-104" value="物流与清关支持&#xa;SDCC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1619" y="2043" width="173" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-105" value="地勘/环评支持" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2007" y="2052" width="165" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-106" value="电站运营团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2182" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-107" value="财经管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2241" y="2052" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-108" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-91" target="KK2gv3hvEF3qkXEr2EmK-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="921" y="1843" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-109" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-91" target="KK2gv3hvEF3qkXEr2EmK-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="1843" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-110" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-91" target="KK2gv3hvEF3qkXEr2EmK-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1111" y="1843" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-111" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-91" target="KK2gv3hvEF3qkXEr2EmK-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-112" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-91" target="KK2gv3hvEF3qkXEr2EmK-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1894" y="1843" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-113" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-91" target="KK2gv3hvEF3qkXEr2EmK-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2303" y="1843" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-114" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-91" target="KK2gv3hvEF3qkXEr2EmK-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2089" y="1843" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-115" value="监督、决策、批复" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-90" target="KK2gv3hvEF3qkXEr2EmK-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-116" value="协调、指挥" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.01;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-99" target="KK2gv3hvEF3qkXEr2EmK-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="2007" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-117" value="购电协议、技术要求、验收" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.99;entryY=0.31;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-89" target="KK2gv3hvEF3qkXEr2EmK-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="517" y="2007" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-118" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-94" target="KK2gv3hvEF3qkXEr2EmK-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="983" y="1970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-119" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-94" target="KK2gv3hvEF3qkXEr2EmK-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1218" y="1970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-120" value="供货、技术交底" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-93" target="KK2gv3hvEF3qkXEr2EmK-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1432" y="1970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-121" value="采购订单、跟催" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-93" target="KK2gv3hvEF3qkXEr2EmK-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1705" y="1970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-122" value="报告、手续办理" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-98" target="KK2gv3hvEF3qkXEr2EmK-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-123" value="运营移交" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-100" target="KK2gv3hvEF3qkXEr2EmK-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-124" value="财务对接、请款" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-97" target="KK2gv3hvEF3qkXEr2EmK-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
