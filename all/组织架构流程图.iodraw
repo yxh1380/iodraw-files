@@ -1613,7 +1613,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-63" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.13;exitY=1.053;exitDx=0;exitDy=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-43" target="r68pPXNX0Ogo66Y5zNp7-50">
-          <mxGeometry x="0.0079" y="-3" relative="1" as="geometry">
+          <mxGeometry x="0.2936" y="-28" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="442.948979591838" y="1009.5" as="sourcePoint" />
             <mxPoint x="300" y="1161" as="targetPoint" />
@@ -1719,7 +1719,7 @@
           <mxGeometry x="343.5" y="1169.5" width="100" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-130" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.657;exitY=1.005;exitDx=0;exitDy=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-43">
-          <mxGeometry x="0.0079" y="-3" relative="1" as="geometry">
+          <mxGeometry x="0.0931" y="-49" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="1020" />
             </Array>
