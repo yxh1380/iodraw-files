@@ -1628,9 +1628,7 @@
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-65" value="供货、技术交底" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-44" target="r68pPXNX0Ogo66Y5zNp7-52">
           <mxGeometry x="-0.112" y="40" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="777" y="1040" />
-            </Array>
+            <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1692,7 +1690,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-100" value="运输" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFE6;" vertex="1" parent="1">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-100" value="运输清关团队&#xa;责任人：蔡涴谨" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFE6;" vertex="1" parent="1">
           <mxGeometry x="1007" y="931.5" width="113" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-123" value="地勘团队&#xa;Geotech Lab&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
