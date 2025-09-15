@@ -1579,7 +1579,7 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-58" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=0.848;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1060" y="834" as="sourcePoint" />
+            <mxPoint x="1070" y="834" as="sourcePoint" />
             <mxPoint x="639.998" y="930.9960000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1718,7 +1718,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-132" value=" 电缆厂家：&#xa;         &#xa; 设备厂家：华为" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1080" width="110" height="70" as="geometry" />
+          <mxGeometry x="827" y="1080" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-133" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.393;entryY=-0.014;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-44" target="r68pPXNX0Ogo66Y5zNp7-132">
           <mxGeometry x="-0.0123" y="-3" relative="1" as="geometry">
