@@ -1673,10 +1673,10 @@
           <mxGeometry x="1086" y="403" width="138" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-87" value="C" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1223" y="567" width="70" height="49" as="geometry" />
+          <mxGeometry x="1153" y="570" width="70" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-88" value="电站运营团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="697" width="156" height="49" as="geometry" />
+          <mxGeometry x="1110" y="697" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-89" value="监督、决策、批复" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-85" target="r68pPXNX0Ogo66Y5zNp7-86">
           <mxGeometry relative="1" as="geometry">
@@ -1701,9 +1701,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-50" target="r68pPXNX0Ogo66Y5zNp7-50">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
