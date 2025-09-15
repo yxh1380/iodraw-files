@@ -1738,7 +1738,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-138" value="物流/清关团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="996.5" y="1090" width="103.5" height="70" as="geometry" />
+          <mxGeometry x="1209.5" y="1080" width="103.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-139" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry x="0.2936" y="-28" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1047" y="994" as="sourcePoint" />
+            <mxPoint x="1048" y="1090" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
