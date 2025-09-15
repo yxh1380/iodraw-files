@@ -35,14 +35,13 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-79" value="部门&lt;br&gt;名称" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fontStyle=1;fillColor=#FFE6CC;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-220" y="427" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-80" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" parent="1" edge="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-80" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-318.5" y="221" as="sourcePoint" />
-            <mxPoint x="481.5" y="221" as="targetPoint" />
+            <mxPoint x="560" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-318" y="170" />
-              <mxPoint x="520" y="170" />
-              <mxPoint x="520" y="221" />
+              <mxPoint x="560" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
