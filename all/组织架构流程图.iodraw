@@ -1520,6 +1520,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-41" value="C [EPC联合体项目部]" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="240" y="710" width="2000" height="320" as="geometry" />
+        </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-42" value="项目部核心管理层" style="whiteSpace=wrap;strokeWidth=2;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1077" y="790" width="189" height="49" as="geometry" />
         </mxCell>
@@ -1609,7 +1612,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-63" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-41" target="r68pPXNX0Ogo66Y5zNp7-50">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-63" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-43" target="r68pPXNX0Ogo66Y5zNp7-50">
           <mxGeometry x="-0.2" y="-20" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="442.948979591838" y="1009.5" as="sourcePoint" />
@@ -1705,16 +1708,13 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-123" value="土建施工团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="347" y="1080" width="93" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-124" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-43" target="r68pPXNX0Ogo66Y5zNp7-41">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-125" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry x="-0.2" y="-20" relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="380" y="980" as="sourcePoint" />
-            <mxPoint x="270" y="1080" as="targetPoint" />
+            <mxPoint x="340" y="1040" as="sourcePoint" />
+            <mxPoint x="230" y="1140" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-41" value="C [EPC联合体项目部]" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFCC;" vertex="1" parent="1">
-          <mxGeometry x="226.5" y="710" width="2000" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
