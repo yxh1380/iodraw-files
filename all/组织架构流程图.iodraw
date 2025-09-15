@@ -1530,7 +1530,7 @@
           <mxGeometry x="320" y="930" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-44" value="采购与物流组" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFE6;" vertex="1" parent="1">
-          <mxGeometry x="762" y="936.25" width="118" height="58.5" as="geometry" />
+          <mxGeometry x="762" y="936.25" width="118" height="43.75" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-45" value="设计单位: 河南院&#xa;负责人：刘小峰" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="520" y="930" width="120" height="47.5" as="geometry" />
@@ -1551,7 +1551,7 @@
           <mxGeometry x="230" y="1080" width="100" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-51" value="土建/电气设计团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="514.75" y="1080" width="130.5" height="40" as="geometry" />
+          <mxGeometry x="514.75" y="1080" width="125.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-52" value="设备技术服务&#xa;华为" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="850" y="1103" width="157" height="66" as="geometry" />
