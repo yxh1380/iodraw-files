@@ -1730,6 +1730,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-100" target="r68pPXNX0Ogo66Y5zNp7-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
