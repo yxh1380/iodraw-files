@@ -1539,7 +1539,7 @@
           <mxGeometry x="1188" y="931" width="125" height="59" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-47" value="HSE组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="941" width="120" height="49" as="geometry" />
+          <mxGeometry x="1410" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-48" value="合同商务组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1910" y="948" width="140" height="49" as="geometry" />
