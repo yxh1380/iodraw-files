@@ -1542,7 +1542,7 @@
           <mxGeometry x="1410" y="930" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-48" value="财务管理团队&#xa;      GW：钱豪             CRSG：王颜颂" style="whiteSpace=wrap;strokeWidth=2;fillColor=#E5CCFF;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="931" width="140" height="49" as="geometry" />
+          <mxGeometry x="1830" y="928.75" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-49" value="设备技术服务&#xa;责任人：蒙兴宝" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="1613" y="930" width="137" height="50" as="geometry" />
@@ -1557,7 +1557,7 @@
           <mxGeometry x="1613" y="1080" width="137" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-55" value="共管账户&#xa;财务报表&#xa;税务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1868" y="1080" width="124" height="70" as="geometry" />
+          <mxGeometry x="1838" y="1080" width="124" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-42">
           <mxGeometry relative="1" as="geometry">
@@ -1772,7 +1772,7 @@
           <mxGeometry x="1480" y="1080" width="103.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-144" value="财务管理团队&#xa;      GW：钱豪             CRSG：王颜颂" style="whiteSpace=wrap;strokeWidth=2;fillColor=#E5CCFF;" vertex="1" parent="1">
-          <mxGeometry x="1850" y="941" width="140" height="49" as="geometry" />
+          <mxGeometry x="2040" y="929.25" width="140" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
