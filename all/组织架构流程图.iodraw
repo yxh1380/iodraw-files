@@ -1545,7 +1545,7 @@
           <mxGeometry x="1910" y="948" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-49" value="合规与文件控制组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1613" y="935.25" width="188" height="49" as="geometry" />
+          <mxGeometry x="1613" y="930" width="188" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-51" value="土建/电气设计团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="514.75" y="1080" width="125.25" height="50" as="geometry" />
