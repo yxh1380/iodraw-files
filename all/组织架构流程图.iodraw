@@ -90,11 +90,11 @@
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-91" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=17;fontStyle=1;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="15" y="480" as="sourcePoint" />
-            <mxPoint x="145" y="480" as="targetPoint" />
+            <mxPoint x="-100" y="472" as="sourcePoint" />
+            <mxPoint x="30" y="472" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="15" y="440" />
-              <mxPoint x="145" y="440" />
+              <mxPoint x="-100" y="432" />
+              <mxPoint x="30" y="432" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -210,9 +210,7 @@
             <mxPoint x="-50" y="520" as="sourcePoint" />
             <mxPoint y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-50" y="530" />
-              <mxPoint x="-160" y="530" />
-              <mxPoint x="-160" y="510" />
+              <mxPoint x="-50" y="510" />
               <mxPoint x="-30" y="510" />
             </Array>
           </mxGeometry>
