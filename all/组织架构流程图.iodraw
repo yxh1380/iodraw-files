@@ -1521,13 +1521,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-41" value="C [EPC联合体项目部]" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFCC;" vertex="1" parent="1">
-          <mxGeometry x="240" y="710" width="2080" height="320" as="geometry" />
+          <mxGeometry x="240" y="710" width="2000" height="320" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-42" value="项目部核心管理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1100" y="790" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-43" value="设计管理组&#xa;河南院" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="711" y="939" width="140" height="66" as="geometry" />
+          <mxGeometry x="300" y="931" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-44" value="采购与物流组" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFE6;" vertex="1" parent="1">
           <mxGeometry x="1322" y="948" width="156" height="49" as="geometry" />
