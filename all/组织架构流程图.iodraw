@@ -1520,9 +1520,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-11" value="QA/QC组" style="whiteSpace=wrap;strokeWidth=2;shadow=1;fillColor=#FFCCFF;" vertex="1" parent="1">
-          <mxGeometry x="1668" y="268" width="125" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-1" value="C [EPC联合体项目部]" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="827" y="30" width="1593" height="330" as="geometry" />
         </mxCell>
@@ -1552,6 +1549,9 @@
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-10" value="施工管理组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1041" y="268" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-11" value="QA/QC组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1668" y="268" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-12" value="HSE组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1843" y="268" width="103" height="49" as="geometry" />
