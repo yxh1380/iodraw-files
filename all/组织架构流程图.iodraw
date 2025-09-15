@@ -1730,7 +1730,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-132" value="电缆厂家                /设备厂家" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-132" value=" 电缆厂家：&#xa;         &#xa; 设备厂家：华为" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="1080" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-133" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.393;entryY=-0.014;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-44" target="r68pPXNX0Ogo66Y5zNp7-132">
