@@ -1772,7 +1772,7 @@
           <mxGeometry x="1480" y="1080" width="103.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-144" value="光伏电站运营团队&#xa;负责人：温卫东      " style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFCCE6;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="929.25" width="130" height="49" as="geometry" />
+          <mxGeometry x="2020" y="931" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-145" value="财务对接、请款" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" target="r68pPXNX0Ogo66Y5zNp7-146" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -1783,13 +1783,13 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-146" value="电站运营班组&#xa;负责人：于军旗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2040" y="1082" width="124" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-148" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;rounded=0;exitDx=0;exitDy=0;entryX=0.964;entryY=0.656;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-42" target="r68pPXNX0Ogo66Y5zNp7-41">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-148" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1930" y="860" />
+              <mxPoint x="1920" y="880" />
             </Array>
             <mxPoint x="1276" y="839" as="sourcePoint" />
-            <mxPoint x="1910" y="939" as="targetPoint" />
+            <mxPoint x="2080" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
