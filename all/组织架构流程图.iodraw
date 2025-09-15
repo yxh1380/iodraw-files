@@ -1625,7 +1625,7 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-64" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-45" target="r68pPXNX0Ogo66Y5zNp7-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1078" y="1030" />
+              <mxPoint x="670" y="1050" />
             </Array>
           </mxGeometry>
         </mxCell>
