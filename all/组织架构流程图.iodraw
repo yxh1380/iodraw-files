@@ -1545,7 +1545,7 @@
           <mxGeometry x="1910" y="948" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-49" value="设备技术服务&#xa;责任人：蒙兴宝" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1613" y="930" width="147" height="50" as="geometry" />
+          <mxGeometry x="1613" y="930" width="137" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-51" value="土建/电气设计团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="514.75" y="1080" width="125.25" height="50" as="geometry" />
@@ -1741,11 +1741,11 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-138" value="土建施工各班组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1198.75" y="1080" width="103.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-139" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0.576;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-46">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-139" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0.576;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="0.2936" y="-28" relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1260.75" y="984.25" as="sourcePoint" />
-            <mxPoint x="1261.75" y="1080.25" as="targetPoint" />
+            <mxPoint x="1249.63" y="990" as="sourcePoint" />
+            <mxPoint x="1251.38" y="1080.25" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
