@@ -1530,7 +1530,7 @@
           <mxGeometry x="320" y="930" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-44" value="采购/物资发运&#xa;责任人: 汪勇" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="762" y="936.25" width="118" height="43.75" as="geometry" />
+          <mxGeometry x="750" y="936.25" width="130" height="43.75" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-45" value="设计单位: 河南院&#xa;负责人：刘小峰" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="520" y="930" width="120" height="47.5" as="geometry" />
@@ -1629,7 +1629,7 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-65" value="供货、技术交底" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-44" target="r68pPXNX0Ogo66Y5zNp7-52">
           <mxGeometry x="-0.112" y="40" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="780" y="1030" />
+              <mxPoint x="777" y="1040" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
