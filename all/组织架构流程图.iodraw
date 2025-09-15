@@ -1516,7 +1516,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o5JKdDoGb9ConEMiSZ8B" name="第 2 页">
-    <mxGraphModel dx="712" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="498" dy="210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1704,15 +1704,6 @@
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-100" value="采购与物流组" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFE6;" vertex="1" parent="1">
           <mxGeometry x="1007" y="931.5" width="156" height="58.5" as="geometry" />
-        </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-126">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="1204" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="390" y="1150" />
-              <mxPoint x="390" y="1150" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-123" value="地勘团队&#xa;Geotech Lab&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="347" y="1080" width="93" height="49" as="geometry" />
