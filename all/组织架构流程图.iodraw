@@ -15,8 +15,8 @@
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-111" value="" style="endArrow=classic;html=1;fontSize=17;fontColor=#FFFFFF;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="139.5" as="sourcePoint" />
-            <mxPoint x="80" y="139.5" as="targetPoint" />
+            <mxPoint y="220" as="sourcePoint" />
+            <mxPoint x="130" y="220.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-112" value="虚拟组织" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
