@@ -1573,7 +1573,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-58" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=0.848;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-58" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=0.848;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.003;exitY=0.858;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="1070" y="834" as="sourcePoint" />
