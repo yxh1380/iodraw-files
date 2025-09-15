@@ -1539,7 +1539,7 @@
           <mxGeometry x="1188" y="931" width="125" height="59" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-47" value="安装及电气&#xa;责任人:周稳正" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFE6;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="1410" y="930" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-48" value="财务管理团队&#xa;      GW：钱豪             CRSG：王颜颂" style="whiteSpace=wrap;strokeWidth=2;fillColor=#E5CCFF;" vertex="1" parent="1">
           <mxGeometry x="1840" y="931" width="140" height="49" as="geometry" />
@@ -1770,6 +1770,9 @@
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-143" value="电气班组&#xa;责任人:  " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1080" width="103.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-144" value="财务管理团队&#xa;      GW：钱豪             CRSG：王颜颂" style="whiteSpace=wrap;strokeWidth=2;fillColor=#E5CCFF;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="941" width="140" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
