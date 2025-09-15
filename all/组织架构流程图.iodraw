@@ -1565,11 +1565,13 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-55" value="财经管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1970" y="1091" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-42" target="r68pPXNX0Ogo66Y5zNp7-43">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="770" y="890" />
+              <mxPoint x="804" y="878.5" />
             </Array>
+            <mxPoint x="1111" y="825.7399999999998" as="sourcePoint" />
+            <mxPoint x="414" y="931" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-42" target="r68pPXNX0Ogo66Y5zNp7-44">
