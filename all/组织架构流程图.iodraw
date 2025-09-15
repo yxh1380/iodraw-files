@@ -1743,8 +1743,8 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-139" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry x="0.2936" y="-28" relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1047" y="994" as="sourcePoint" />
-            <mxPoint x="1048" y="1090" as="targetPoint" />
+            <mxPoint x="1260.75" y="984.25" as="sourcePoint" />
+            <mxPoint x="1261.75" y="1080.25" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
