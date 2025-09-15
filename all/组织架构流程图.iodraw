@@ -1554,7 +1554,7 @@
           <mxGeometry x="514.75" y="1080" width="125.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-52" value="支架厂家" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1080" width="100" height="50" as="geometry" />
+          <mxGeometry x="720" y="1080" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-53" value="物流与清关支持&#xa;SDCC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1140" y="1103.5" width="173" height="66" as="geometry" />
@@ -1630,7 +1630,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-65" value="供货、技术交底" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-44" target="r68pPXNX0Ogo66Y5zNp7-52">
-          <mxGeometry x="-0.0399" y="13" relative="1" as="geometry">
+          <mxGeometry x="-0.0263" y="7" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="770" y="1040" />
             </Array>
