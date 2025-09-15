@@ -37,11 +37,11 @@
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-80" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-150" y="193" as="sourcePoint" />
-            <mxPoint x="650" y="193" as="targetPoint" />
+            <mxPoint x="-200" y="196" as="sourcePoint" />
+            <mxPoint x="600" y="196" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-150" y="142" />
-              <mxPoint x="650" y="142" />
+              <mxPoint x="-200" y="145" />
+              <mxPoint x="600" y="145" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -213,9 +213,6 @@
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-112" value="虚拟组织" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KK2gv3hvEF3qkXEr2EmK-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="520" y="250" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
