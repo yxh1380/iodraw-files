@@ -1781,7 +1781,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-146" value="电站运营班组&#xa;负责人：于军旗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="1082" width="124" height="68" as="geometry" />
+          <mxGeometry x="2040" y="1080" width="124" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-148" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-42">
           <mxGeometry relative="1" as="geometry">
