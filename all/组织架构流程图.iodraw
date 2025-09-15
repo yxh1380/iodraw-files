@@ -1708,9 +1708,12 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-123" value="土建施工团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="347" y="1080" width="93" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-125" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-125" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-41">
           <mxGeometry x="-0.2" y="-20" relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="410" y="980" />
+              <mxPoint x="390" y="1090" />
+            </Array>
             <mxPoint x="340" y="1040" as="sourcePoint" />
             <mxPoint x="230" y="1140" as="targetPoint" />
             <mxPoint as="offset" />
