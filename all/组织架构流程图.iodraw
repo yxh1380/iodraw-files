@@ -357,10 +357,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KK2gv3hvEF3qkXEr2EmK-78" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-54" target="KK2gv3hvEF3qkXEr2EmK-61">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.2386" y="-3" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="983" y="1360" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KK2gv3hvEF3qkXEr2EmK-79" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KK2gv3hvEF3qkXEr2EmK-54" target="KK2gv3hvEF3qkXEr2EmK-62">
