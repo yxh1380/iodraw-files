@@ -1759,6 +1759,17 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-141" value="土建施工各班组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1080" width="103.5" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-142" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0.576;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.2936" y="-28" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1530.5" y="990" as="sourcePoint" />
+            <mxPoint x="1532.25" y="1080.25" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-143" value="土建施工各班组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1080" width="103.5" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
