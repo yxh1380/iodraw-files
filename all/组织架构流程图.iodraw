@@ -1533,7 +1533,7 @@
           <mxGeometry x="762" y="936.25" width="118" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-45" value="施工管理组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="520" y="932.5" width="151" height="58.5" as="geometry" />
+          <mxGeometry x="520" y="932.5" width="151" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-46" value="QA/QC组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1188" y="931" width="125" height="59" as="geometry" />
@@ -1620,7 +1620,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-64" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-45" target="r68pPXNX0Ogo66Y5zNp7-51">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-64" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-45" target="r68pPXNX0Ogo66Y5zNp7-51">
           <mxGeometry x="-0.2027" y="-36" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="1050" />
