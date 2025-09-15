@@ -1536,10 +1536,10 @@
           <mxGeometry x="540" y="930" width="151" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-46" value="QA/QC组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1188" y="931" width="125" height="49" as="geometry" />
+          <mxGeometry x="1188" y="931" width="125" height="59" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-47" value="HSE组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="939.5" width="103" height="49" as="geometry" />
+          <mxGeometry x="1410" y="941" width="103" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-48" value="合同商务组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2093" y="948" width="140" height="49" as="geometry" />
@@ -1594,7 +1594,7 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-42" target="r68pPXNX0Ogo66Y5zNp7-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1754" y="903" />
+              <mxPoint x="1430" y="920" />
             </Array>
           </mxGeometry>
         </mxCell>
