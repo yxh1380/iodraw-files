@@ -88,7 +88,7 @@
             <mxPoint x="579.4999999999995" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KK2gv3hvEF3qkXEr2EmK-18" value="部门&lt;br style=&quot;font-size: 17px;&quot;&gt;名称" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fontStyle=1;fillColor=#FFE6CC;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="KK2gv3hvEF3qkXEr2EmK-18" value="部门&lt;br style=&quot;font-size: 17px;&quot;&gt;名称" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fontStyle=1;fillColor=#FFE6CC;fontColor=#000000;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-230" y="960" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KK2gv3hvEF3qkXEr2EmK-19" value="部门&lt;br&gt;名称" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fontStyle=1;fillColor=#FFE6CC;fontColor=#000000;" vertex="1" parent="1">
@@ -216,7 +216,8 @@
               <mxPoint x="-30" y="820" />
               <mxPoint x="-100" y="820" />
               <mxPoint x="-100" y="860" />
-              <mxPoint x="-95" y="860" />
+              <mxPoint x="-130" y="860" />
+              <mxPoint x="-130" y="985" />
             </Array>
           </mxGeometry>
         </mxCell>
