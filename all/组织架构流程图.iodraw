@@ -1547,7 +1547,7 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-49" value="设备技术服务&#xa;责任人：蒙兴宝" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="1613" y="930" width="137" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-51" value="土建/电气设计团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-51" value="土建/电气设计团队" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="514.75" y="1080" width="125.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-52" value="    支架厂家：    &#xa;&#xa;组件厂家：" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -1690,7 +1690,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-126" value="环评团队&lt;div&gt;EmiAfrica&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-126" value="环评团队&lt;div&gt;EmiAfrica&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="330" y="1169.5" width="100" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-130" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;entryX=0.571;entryY=0.011;rounded=0;exitX=0.657;exitY=1.005;exitDx=0;exitDy=0;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1">
