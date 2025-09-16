@@ -1554,7 +1554,7 @@
           <mxGeometry x="514.75" y="1080" width="125.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-52" value="    支架厂家：    &#xa;&#xa;组件厂家：" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1080" width="110" height="70" as="geometry" />
+          <mxGeometry x="700" y="1080" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-54" value="设备调试/并网班组" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="1613" y="1080" width="137" height="70" as="geometry" />
@@ -1656,7 +1656,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-100" value="运输清关团队&#xa;责任人：蔡涴谨" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFE6;" vertex="1" parent="1">
-          <mxGeometry x="980" y="925.75" width="113" height="58.5" as="geometry" />
+          <mxGeometry x="980" y="925.75" width="130" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-123" value="地勘团队&#xa;Geotech Lab&#xa;" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="333.5" y="1080" width="93" height="49" as="geometry" />
@@ -1694,7 +1694,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-135" value="物流/清关团队" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFFF;" vertex="1" parent="1">
-          <mxGeometry x="986.5" y="1080" width="103.5" height="70" as="geometry" />
+          <mxGeometry x="986.5" y="1080" width="113.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-137" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
