@@ -1655,9 +1655,7 @@
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-91" value="购电协议、技术要求、验收" style="curved=1;startArrow=none;endArrow=block;entryX=0.99;entryY=0.31;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-84">
           <mxGeometry x="-0.1391" y="2" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1600.5" y="657" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="1473.5" y="791.9999999999998" as="sourcePoint" />
             <mxPoint x="1270" y="650" as="targetPoint" />
             <mxPoint as="offset" />
