@@ -1721,6 +1721,14 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-135" value="物流/清关团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="986.5" y="1080" width="103.5" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-136" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="r68pPXNX0Ogo66Y5zNp7-135" source="r68pPXNX0Ogo66Y5zNp7-100">
+          <mxGeometry x="0.2936" y="-28" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1082.5" y="992" as="sourcePoint" />
+            <mxPoint x="1056.5" y="1172" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-137" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1785,19 +1793,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-156" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-100" target="r68pPXNX0Ogo66Y5zNp7-135">
-          <mxGeometry x="-0.0396" y="13" relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1249" y="1000" as="sourcePoint" />
-            <mxPoint x="1250" y="1090" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-157" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="r68pPXNX0Ogo66Y5zNp7-141">
           <mxGeometry x="-0.1104" y="10" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1430" y="980" />
+              <mxPoint x="1100" y="1040" />
             </Array>
-            <mxPoint x="1440" y="980" as="sourcePoint" />
+            <mxPoint x="1249" y="1000" as="sourcePoint" />
             <mxPoint x="1250" y="1090" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
