@@ -1809,6 +1809,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-164" value="日常运营，电费结算" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
+          <mxGeometry y="-21" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1491.1" y="990" as="sourcePoint" />
+            <mxPoint x="1491.1" y="1090" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
