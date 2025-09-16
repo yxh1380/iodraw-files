@@ -1520,11 +1520,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-170" value="绿沙光伏项目管理委员会&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;总协调：罗亮、 李贺春、袁辕&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="610" width="200" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-41" value="&#xa;" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="180" y="690" width="2050" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-170" value="绿沙光伏项目管理委员会&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;总协调：罗亮、 李贺春、袁辕&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
+          <mxGeometry x="1071.5" y="620" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-42" value="EPC项目部管理层" style="whiteSpace=wrap;strokeWidth=2;shadow=1;fillColor=#E1D5E7;" vertex="1" parent="1">
           <mxGeometry x="1077" y="770" width="189" height="69" as="geometry" />
@@ -1644,7 +1644,7 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-84" value="项目业主/购电方&#xa;绿沙矿业股份有限公司" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1427" y="394" width="220" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-85" value="股东方/投资决策层&#xa;GW / 中铁七局刚果公司 CRSG" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-85" value="股东方/投资决策层&#xa;格林沃德GW / 中铁七局刚果公司 CRSG" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1056" y="430" width="231" height="84" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-89" value="监督、决策、批复" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-85" target="r68pPXNX0Ogo66Y5zNp7-170">
