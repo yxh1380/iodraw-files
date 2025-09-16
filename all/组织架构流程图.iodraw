@@ -1523,7 +1523,7 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-41" value="&#xa;" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="190" y="710" width="2050" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-42" value="项目部核心管理层" style="whiteSpace=wrap;strokeWidth=2;shadow=1;fillColor=#66FFB3;" vertex="1" parent="1">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-42" value="项目部核心管理层" style="whiteSpace=wrap;strokeWidth=2;shadow=1;fillColor=#B5739D;" vertex="1" parent="1">
           <mxGeometry x="1077" y="770" width="189" height="69" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-43" value="合规文件办理&#xa;负责人：李正华" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFCCCC;" vertex="1" parent="1">
