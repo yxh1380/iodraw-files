@@ -1622,8 +1622,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-68" value="财务对接、请款" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-48" target="r68pPXNX0Ogo66Y5zNp7-55">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.1852" y="20" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-81" value="Leadership [项目领导与总协调]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
@@ -1772,7 +1773,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-159" value="日常运营，电费结算" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.2" y="-11" relative="1" as="geometry">
+          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="1681.1" y="980" as="sourcePoint" />
             <mxPoint x="1681.1" y="1080" as="targetPoint" />
