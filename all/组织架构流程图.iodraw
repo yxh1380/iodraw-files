@@ -1653,7 +1653,7 @@
             <mxPoint x="1159" y="411" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-91" value="购电协议、技术要求、验收" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.99;entryY=0.31;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-84">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-91" value="购电协议、技术要求、验收" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.99;entryY=0.31;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-84">
           <mxGeometry x="-0.1391" y="2" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1537" y="522" />
