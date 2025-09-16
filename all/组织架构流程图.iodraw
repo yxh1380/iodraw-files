@@ -1635,11 +1635,11 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-81" value=" [项目领导与总协调]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1321" y="180" width="480" height="141" as="geometry" />
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-84" value="项目业主/购电方&#xa;绿沙矿业股份有限公司" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-84" value="项目业主/购电方&#xa;绿沙矿业股份有限公司" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="1490" y="610" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-85" value="股东方/投资决策层&#xa;GW / 中铁七局刚果公司 CRSG" style="whiteSpace=wrap;strokeWidth=2;fillColor=#E5CCFF;" vertex="1" parent="1">
-          <mxGeometry x="1056" y="430" width="231" height="84" as="geometry" />
+          <mxGeometry x="1056" y="440" width="231" height="84" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-89" value="监督、决策、批复" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-85" target="r68pPXNX0Ogo66Y5zNp7-170">
           <mxGeometry relative="1" as="geometry">
