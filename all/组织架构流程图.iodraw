@@ -1621,12 +1621,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.464;exitY=0.968;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-49" target="r68pPXNX0Ogo66Y5zNp7-54">
-          <mxGeometry x="-0.0026" relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-68" value="财务对接、请款" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-48" target="r68pPXNX0Ogo66Y5zNp7-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
