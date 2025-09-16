@@ -1796,8 +1796,8 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-159" value="日常运营，电费结算" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.008" relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="2098" y="990" as="sourcePoint" />
-            <mxPoint x="2098" y="1090" as="targetPoint" />
+            <mxPoint x="1681.1" y="980" as="sourcePoint" />
+            <mxPoint x="1681.1" y="1080" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
