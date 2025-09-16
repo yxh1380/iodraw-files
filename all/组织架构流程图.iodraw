@@ -1806,11 +1806,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-169" value="监督、决策、批复" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-170" target="r68pPXNX0Ogo66Y5zNp7-42">
-          <mxGeometry x="-1" y="-182" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="1170" y="700" as="sourcePoint" />
             <mxPoint x="1169" y="421" as="targetPoint" />
-            <mxPoint x="31" y="-100" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-170" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
