@@ -1632,15 +1632,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-81" value="Leadership [项目领导与总协调]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1321" y="180" width="480" height="141" as="geometry" />
-        </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-82" value="总协调（国内）&#xa;罗靓 GW" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="r68pPXNX0Ogo66Y5zNp7-81">
-          <mxGeometry x="43" y="46" width="172" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-83" value="总协调（刚果金）&#xa;李贺春 GW" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="r68pPXNX0Ogo66Y5zNp7-81">
-          <mxGeometry x="265" y="46" width="188" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-84" value="项目业主/购电方&#xa;绿沙矿业股份有限公司" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1500" y="610" width="220" height="80" as="geometry" />
         </mxCell>
