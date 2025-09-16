@@ -1524,7 +1524,7 @@
           <mxGeometry x="1070" y="610" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-41" value="&#xa;" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFCC;" vertex="1" parent="1">
-          <mxGeometry x="180" y="760" width="2050" height="480" as="geometry" />
+          <mxGeometry x="180" y="690" width="2050" height="550" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-42" value="EPC项目部管理层" style="whiteSpace=wrap;strokeWidth=2;shadow=1;fillColor=#E1D5E7;" vertex="1" parent="1">
           <mxGeometry x="1077" y="770" width="189" height="69" as="geometry" />
