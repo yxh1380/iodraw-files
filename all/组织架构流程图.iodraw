@@ -1741,6 +1741,14 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-138" value="土建施工各班组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1198.75" y="1080" width="103.5" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-139" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0.576;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.2936" y="-28" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1249.63" y="990" as="sourcePoint" />
+            <mxPoint x="1251.38" y="1080.25" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-140" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-47">
           <mxGeometry x="0.2936" y="-28" relative="1" as="geometry">
             <Array as="points" />
@@ -1784,21 +1792,13 @@
             <mxPoint x="2080" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-155" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0.507;exitY=0.844;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-41">
-          <mxGeometry x="-0.1104" y="10" relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="590" y="988" as="sourcePoint" />
-            <mxPoint x="1240" y="1080" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-156" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-100" target="r68pPXNX0Ogo66Y5zNp7-135">
-          <mxGeometry x="-0.1104" y="10" relative="1" as="geometry">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-155" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0196" y="10" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1100" y="1040" />
+              <mxPoint x="590" y="1060" />
             </Array>
-            <mxPoint x="1249" y="1000" as="sourcePoint" />
-            <mxPoint x="1250" y="1090" as="targetPoint" />
+            <mxPoint x="590" y="988" as="sourcePoint" />
+            <mxPoint x="590" y="1090" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
