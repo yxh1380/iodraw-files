@@ -1792,16 +1792,6 @@
             <mxPoint x="2080" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-158" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=0.087;entryY=-0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="r68pPXNX0Ogo66Y5zNp7-138">
-          <mxGeometry x="0.0258" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="590" y="1060" />
-            </Array>
-            <mxPoint x="590" y="988" as="sourcePoint" />
-            <mxPoint x="590" y="1090" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
