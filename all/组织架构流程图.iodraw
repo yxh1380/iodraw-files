@@ -1653,6 +1653,15 @@
             <mxPoint x="1159" y="411" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-90" value="协调、指挥" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.01;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1155" y="522" />
+            </Array>
+            <mxPoint x="1159" y="460" as="sourcePoint" />
+            <mxPoint x="1136.5" y="500.49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-91" value="购电协议、技术要求、验收" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.99;entryY=0.31;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1799,7 +1808,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-169" value="监督、决策、批复" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-170" target="r68pPXNX0Ogo66Y5zNp7-42">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-169" value="协调、指挥" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-170" target="r68pPXNX0Ogo66Y5zNp7-42">
           <mxGeometry x="-0.0001" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="1170" y="700" as="sourcePoint" />
