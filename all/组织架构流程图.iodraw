@@ -1644,25 +1644,24 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-85" value="股东方/投资决策层&#xa;GW / 中铁七局刚果公司 CRSG" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1040" y="209" width="231" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-86" value="Leadership" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1086" y="403" width="138" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-87" value="C" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1136.5" y="500" width="70" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-88" value="电站运营团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1100" y="585" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-89" value="监督、决策、批复" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-85" target="r68pPXNX0Ogo66Y5zNp7-86">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-89" value="监督、决策、批复" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-85">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1159" y="411" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-90" value="协调、指挥" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.01;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-86" target="r68pPXNX0Ogo66Y5zNp7-87">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-90" value="协调、指挥" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.01;rounded=0;" edge="1" parent="1" target="r68pPXNX0Ogo66Y5zNp7-87">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1155" y="522" />
             </Array>
+            <mxPoint x="1159" y="460" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-91" value="购电协议、技术要求、验收" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.99;entryY=0.31;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-84" target="r68pPXNX0Ogo66Y5zNp7-87">
