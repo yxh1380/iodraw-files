@@ -1556,7 +1556,7 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-54" value="设备调试/并网班组" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="1613" y="1080" width="137" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-55" value="共管账户&#xa;财务报表&#xa;税务上报" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-55" value="共管账户&#xa;财务报表&#xa;税务上报" style="whiteSpace=wrap;strokeWidth=2;fillColor=#E5CCFF;" vertex="1" parent="1">
           <mxGeometry x="1838" y="1080" width="124" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-42">
@@ -1762,7 +1762,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-146" value="电站运营班组&#xa;负责人：于军旗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-146" value="电站运营班组&#xa;负责人：于军旗" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFCCFF;" vertex="1" parent="1">
           <mxGeometry x="2026" y="1080" width="124" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-148" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-42">
