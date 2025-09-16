@@ -1607,7 +1607,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-64" value="指令下达、过程管理" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="r68pPXNX0Ogo66Y5zNp7-45">
-          <mxGeometry x="0.0258" relative="1" as="geometry">
+          <mxGeometry x="-0.1707" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="1050" />
             </Array>
