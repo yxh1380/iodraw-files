@@ -1516,7 +1516,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o5JKdDoGb9ConEMiSZ8B" name="第 2 页">
-    <mxGraphModel dx="1184" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1184" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1633,7 +1633,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-81" value="&#xa;&#xa;&#xa;&#xa;绿沙矿业光伏项目人员组织构架与职责方案" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#CCFFE6;strokeColor=default;fontSize=39;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="770" y="140" width="800" as="geometry" />
+          <mxGeometry x="800" y="150" width="800" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-84" value="项目业主/购电方&#xa;绿沙矿业股份有限公司" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="1490" y="610" width="220" height="80" as="geometry" />
