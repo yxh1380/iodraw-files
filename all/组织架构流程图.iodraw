@@ -1632,7 +1632,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-81" value=" [项目领导与总协调]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#99FFCC;" vertex="1" parent="1">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-81" value=" [项目领导与总协调]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#CCFFE6;" vertex="1" parent="1">
           <mxGeometry x="600" y="250" width="1140" height="141" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-84" value="项目业主/购电方&#xa;绿沙矿业股份有限公司" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F8CECC;" vertex="1" parent="1">
