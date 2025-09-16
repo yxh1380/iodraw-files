@@ -1520,7 +1520,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r68pPXNX0Ogo66Y5zNp7-41" value="[EPC联合体项目部]" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="r68pPXNX0Ogo66Y5zNp7-41" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;指令下达、过程管理&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="200" y="720" width="2050" height="320" as="geometry" />
         </mxCell>
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-42" value="项目部核心管理层" style="whiteSpace=wrap;strokeWidth=2;shadow=1;" vertex="1" parent="1">
