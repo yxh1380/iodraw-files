@@ -1808,7 +1808,7 @@
         <mxCell id="r68pPXNX0Ogo66Y5zNp7-169" value="监督、决策、批复" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" target="r68pPXNX0Ogo66Y5zNp7-42">
           <mxGeometry x="1" y="58" relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1171" y="650" as="sourcePoint" />
+            <mxPoint x="1170" y="690" as="sourcePoint" />
             <mxPoint x="1169" y="421" as="targetPoint" />
             <mxPoint x="-27" y="51" as="offset" />
           </mxGeometry>
